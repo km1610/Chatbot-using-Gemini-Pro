@@ -5,7 +5,7 @@ from tkinter import *
 
 import os
 
-genai.configure(api_key="AIzaSyCqJpJ-KADaNEGw0Y7L3zvk_MCut-lwZI4")
+genai.configure(api_key="GOOGLE_API_KEY")
 model = genai.GenerativeModel('gemini-pro')
 
 def generate():
