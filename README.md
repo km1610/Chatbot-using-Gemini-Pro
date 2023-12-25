@@ -1,5 +1,7 @@
 # Chatbot-using-Gemini-Pro
 
+![Screenshot](screenshot.png)
+
 ## Overview
 
 This project is a simple chat bot application that utilizes the Gemini Pro API and Tkinter for the graphical user interface (GUI). The chat bot allows users to interact with Gemini Pro's language model through a user-friendly interface.
