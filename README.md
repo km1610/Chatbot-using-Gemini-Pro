@@ -1,6 +1,6 @@
 # Chatbot-using-Gemini-Pro
 
-![Screenshot](screenshot.png)
+![screenshot](https://github.com/km1610/Chatbot-using-Gemini-Pro/blob/main/screenshot.png)
 
 ## Overview
 
